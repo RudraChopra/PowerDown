@@ -1,4 +1,4 @@
-# GrokWatch
+# PowerDown
 
 A native macOS app (SwiftUI + Swift Charts) for the **Milpitas Hacks 3 Sustainable track**.
 
