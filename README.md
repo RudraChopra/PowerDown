@@ -1,6 +1,6 @@
 # GrokWatch
 
-A native macOS app (SwiftUI + Swift Charts) for the **Milpitas Hacks 2 — Sustainable track**.
+A native macOS app (SwiftUI + Swift Charts) for the **Milpitas Hacks 3 Sustainable track**.
 
 When a model groks, it first memorizes, then much later generalizes. Most training runs keep
 going long after the model has generalized, burning power for no gain. GrokWatch shows that waste:
